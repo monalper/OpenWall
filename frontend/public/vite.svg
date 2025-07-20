@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <clipPath id="clip-vite">
+      <rect width="800" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="vite" clip-path="url(#clip-vite)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="786" height="786" rx="179" transform="translate(7 7)" fill="#101624"/>
+    <text id="W" transform="translate(93 677)" fill="#fff" font-size="840" font-family="AppleGaramond-BoldItalic, Apple Garamond" font-weight="700" font-style="italic"><tspan x="0" y="0">W</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+.dark .header-nav-link, .dark .header-site-title {
+  color: #fff !important;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.7);
+}
+
+.dark .header-nav-link:hover, .dark .header-site-title:hover {
+  color: #F1AF3E !important;
+}
