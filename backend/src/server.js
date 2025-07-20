@@ -14,8 +14,9 @@ const app = express();
 
 // CORS ayarları
 const allowedOrigins = [
-  'https://ecnn.vercel.app',  // Production frontend
-  'http://localhost:5173'     // Development frontend
+  'https://ecnn.vercel.app',      // Eski/diğer frontend
+  'http://localhost:5173',       // Local geliştirme
+  'https://openwall.vercel.app'  // YENİ frontend domaininiz
 ];
 
 app.use(cors({
